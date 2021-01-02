@@ -60,8 +60,6 @@ const SignUp: React.FC = () => {
         Voltar para o logon
       </a>
       </Content>
-
-
     </Container>
   );
 };
