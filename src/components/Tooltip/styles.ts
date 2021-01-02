@@ -38,7 +38,7 @@ span{
 
   &:hover span {
     opacity: 1;
-    visibility :visible;
+    visibility : visible;
   }
 
 `;
